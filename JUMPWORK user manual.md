@@ -24,7 +24,7 @@ Click on "Depth." If the depth map is displayed correctly, the camera is functio
 
 First, select either single-camera mode or dual-camera mode based on the number of cameras you are using. The default mode is single-camera mode.
 
-<img src="D:\working\软件\EN\choose single camera.png" alt="choose single camera" style="zoom:40%;" />
+[![choose-single-camera.png](https://i.postimg.cc/q7hVbZLK/choose-single-camera.png)](https://postimg.cc/d7YxD6gQ)
 
 ## Single-camera
 
