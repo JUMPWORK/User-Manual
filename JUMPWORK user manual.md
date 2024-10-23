@@ -10,25 +10,25 @@ If this is your first time using the device, please check whether the camera is 
 
 - First, unzip the software folder, then open OrbbecViewer.
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017104413486.png" alt="image-20241017104413486" style="zoom:50%;" />
+<img src="D:\working\软件\EN\open OrbbecViewer.png" alt="open OrbbecViewer" style="zoom:50%;" />
 
 Check if the connection is via a USB 3.0 port or higher.
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017104743550.png" alt="image-20241017104743550" style="zoom:50%;" />
+<img src="D:\working\软件\EN\Check Interface.png" alt="Check Interface" style="zoom:50%;" />
 
 Click on "Depth." If the depth map is displayed correctly, the camera is functioning properly.
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017104722616.png" alt="image-20241017104722616" style="zoom:50%;" />
+<img src="D:\working\软件\EN\depth.png" alt="depth" style="zoom:50%;" />
 
 # Connect Camera
 
 First, select either single-camera mode or dual-camera mode based on the number of cameras you are using. The default mode is single-camera mode.
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017145434414.png" alt="image-20241017145434414" style="zoom:40%;" />
+<img src="D:\working\软件\EN\choose single camera.png" alt="choose single camera" style="zoom:40%;" />
 
 ## Single-camera
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017145341579.png" alt="image-20241017145341579" style="zoom:40%;" />
+<img src="D:\working\软件\EN\home page.png" alt="home page" style="zoom:40%;" />
 
 The camera comes with two types of cables: a power cable and a data cable. Please connect the USB end of the data cable to a USB 3.0 port on your computer.
 
@@ -43,7 +43,7 @@ If the camera is accidentally disconnected during use, the software will automat
 
 ![image-20240813141622835](C:\Users\29131\AppData\Roaming\Typora\typora-user-images\image-20240813141622835.png)
 
-## Double-camera![image-20240813143832344](C:\Users\29131\AppData\Roaming\Typora\typora-user-images\image-20240813143832344.png)
+## Double-camera
 
 ### **Installation and Placement**
 
@@ -68,7 +68,7 @@ After the camera status shows as "Connected," click the "Calibrate" button. A fi
 
 # Align Trackers
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017145650515.png" alt="image-20241017145650515" style="zoom:40%;" />
+<img src="D:\working\软件\EN\align trackers.png" alt="align trackers" style="zoom:40%;" />
 
 Once the camera is successfully connected, the software will automatically navigate to the node alignment interface.
 
@@ -87,7 +87,7 @@ Look down to observe the skeletal position; if the skeletal position is correct,
 
 When the raise hand display window is closed in VR, you can reopen it using the software's button. If the toggle button is green, it indicates that it is open; if the toggle button is gray, it indicates that it is closed.
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017150336747.png" alt="image-20241017150336747" style="zoom:40%;" />
+<img src="D:\working\软件\EN\overlay.png" alt="overlay" style="zoom:40%;" />
 
 # Motion Capture
 
@@ -96,7 +96,7 @@ When the raise hand display window is closed in VR, you can reopen it using the 
   - After clicking "Start Recording," the FBX model will begin to follow your movements. When you click "Stop Recording," the FBX model will stop following.
   - Click the "Export" button, choose the directory where you want to save the BVH file, and then save the file.
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017151430025.png" alt="image-20241017151430025" style="zoom:40%;" />
+<img src="D:\working\软件\EN\motion capture.png" alt="motion capture" style="zoom:40%;" />
 
 - Open the imported BVH format video using Blender,File--Import--Motion Capture(.bvh).
 
@@ -106,11 +106,11 @@ When the raise hand display window is closed in VR, you can reopen it using the 
 - Motion Capture Pars: Displays parameters for motion preview, status, frame rate, and latency, among other details.
 - Click the "Motion Capture Setting" button to toggle the preview on or off.
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017140848388.png" alt="image-20241017140848388" style="zoom:40%;" />
+<img src="D:\working\软件\EN\action demo.png" alt="action demo" style="zoom:40%;" />
 
 # System Setting
 
-<img src="C:\Users\97393\AppData\Roaming\Typora\typora-user-images\image-20241017151848431.png" alt="image-20241017151848431" style="zoom:40%;" />
+<img src="D:\working\软件\EN\system settings.png" alt="system settings" style="zoom:40%;" />
 
 1. **Select Language**:  You can choose between English and Simplified Chinese, with English being the default.
 
