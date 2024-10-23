@@ -24,11 +24,11 @@ Click on "Depth." If the depth map is displayed correctly, the camera is functio
 
 First, select either single-camera mode or dual-camera mode based on the number of cameras you are using. The default mode is single-camera mode.
 
-[![choose-single-camera.png](https://i.postimg.cc/q7hVbZLK/choose-single-camera.png)](https://postimg.cc/d7YxD6gQ)
+[![choose-single-camera.png](https://i.postimg.cc/Bb3rvZG5/choose-single-camera.png)](https://postimg.cc/r0hnnksz)
 
 ## Single-camera
 
-<img src="D:\working\软件\EN\home page.png" alt="home page" style="zoom:40%;" />
+[![single-camera.png](https://i.postimg.cc/QCqRKLX2/single-camera.png)](https://postimg.cc/H8VSFh8z)
 
 The camera comes with two types of cables: a power cable and a data cable. Please connect the USB end of the data cable to a USB 3.0 port on your computer.
 
