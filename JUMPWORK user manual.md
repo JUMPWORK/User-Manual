@@ -68,7 +68,7 @@ After the camera status shows as "Connected," click the "Calibrate" button. A fi
 
 # Align Trackers
 
-<img src="D:\working\软件\EN\align trackers.png" alt="align trackers" style="zoom:40%;" />
+[![align-trackers.png](https://i.postimg.cc/BZcWVFxm/align-trackers.png)](https://postimg.cc/3WRbydfG)
 
 Once the camera is successfully connected, the software will automatically navigate to the node alignment interface.
 
@@ -87,7 +87,7 @@ Look down to observe the skeletal position; if the skeletal position is correct,
 
 When the raise hand display window is closed in VR, you can reopen it using the software's button. If the toggle button is green, it indicates that it is open; if the toggle button is gray, it indicates that it is closed.
 
-<img src="D:\working\软件\EN\overlay.png" alt="overlay" style="zoom:40%;" />
+[![overlay.png](https://i.postimg.cc/7YHv8L9w/overlay.png)](https://postimg.cc/DmMp1nRM)
 
 # Motion Capture
 
@@ -96,7 +96,7 @@ When the raise hand display window is closed in VR, you can reopen it using the 
   - After clicking "Start Recording," the FBX model will begin to follow your movements. When you click "Stop Recording," the FBX model will stop following.
   - Click the "Export" button, choose the directory where you want to save the BVH file, and then save the file.
 
-<img src="D:\working\软件\EN\motion capture.png" alt="motion capture" style="zoom:40%;" />
+[![motion-capture.png](https://i.postimg.cc/8Pt21VXW/motion-capture.png)](https://postimg.cc/PPv340jr)
 
 - Open the imported BVH format video using Blender,File--Import--Motion Capture(.bvh).
 
@@ -106,11 +106,11 @@ When the raise hand display window is closed in VR, you can reopen it using the 
 - Motion Capture Pars: Displays parameters for motion preview, status, frame rate, and latency, among other details.
 - Click the "Motion Capture Setting" button to toggle the preview on or off.
 
-<img src="D:\working\软件\EN\action demo.png" alt="action demo" style="zoom:40%;" />
+[![action-demo.png](https://i.postimg.cc/MpHhHrgL/action-demo.png)](https://postimg.cc/YvcXy8rN)
 
 # System Setting
 
-<img src="D:\working\软件\EN\system settings.png" alt="system settings" style="zoom:40%;" />
+[![system-settings.png](https://i.postimg.cc/0y4hw0sy/system-settings.png)](https://postimg.cc/ZWrfk3nG)
 
 1. **Select Language**:  You can choose between English and Simplified Chinese, with English being the default.
 
