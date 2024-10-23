@@ -10,11 +10,11 @@ If this is your first time using the device, please check whether the camera is 
 
 - First, unzip the software folder, then open OrbbecViewer.
 
-![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/Check%20Interface.png)).
+![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/Check%20Interface.png))
 
 Check if the connection is via a USB 3.0 port or higher.
 
-![Check-Interface.png]([https://i.postimg.cc/TYfxd0d8/Check-Interface.png)](https://postimg.cc/kD1zwxRw](https://github.com/JUMPWORK/User-Manual/blob/main/image/Check%20Interface.png))
+![Check-Interface.png](https://i.postimg.cc/TYfxd0d8/Check-Interface.png)(https://github.com/JUMPWORK/User-Manual/blob/main/image/Check%20Interface.png))
 
 Click on "Depth." If the depth map is displayed correctly, the camera is functioning properly.
 
