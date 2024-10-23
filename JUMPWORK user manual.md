@@ -10,15 +10,15 @@ If this is your first time using the device, please check whether the camera is 
 
 - First, unzip the software folder, then open OrbbecViewer.
 
-<img src="D:\working\软件\EN\open OrbbecViewer.png" alt="open OrbbecViewer" style="zoom:50%;" />
+[![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png)](https://postimg.cc/0KQ3PNFp)
 
 Check if the connection is via a USB 3.0 port or higher.
 
-<img src="D:\working\软件\EN\Check Interface.png" alt="Check Interface" style="zoom:50%;" />
+[![Check-Interface.png](https://i.postimg.cc/TYfxd0d8/Check-Interface.png)](https://postimg.cc/kD1zwxRw)
 
 Click on "Depth." If the depth map is displayed correctly, the camera is functioning properly.
 
-<img src="D:\working\软件\EN\depth.png" alt="depth" style="zoom:50%;" />
+[![depth.png](https://i.postimg.cc/YCSwgSLb/depth.png)](https://postimg.cc/Mvg4JqDQ)
 
 # Connect Camera
 
