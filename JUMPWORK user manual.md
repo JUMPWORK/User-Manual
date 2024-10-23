@@ -10,25 +10,25 @@ If this is your first time using the device, please check whether the camera is 
 
 - First, unzip the software folder, then open OrbbecViewer.
 
-![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/Check%20Interface.png))
+![open-Orbbec-Viewer.png](image/Check%20Interface.png)
 
 Check if the connection is via a USB 3.0 port or higher.
 
-![Check-Interface.png](https://i.postimg.cc/TYfxd0d8/Check-Interface.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/Check%20Interface.png))
+![Check-Interface.png](image/Check%20Interface.png)
 
 Click on "Depth." If the depth map is displayed correctly, the camera is functioning properly.
 
-![depth.png](https://i.postimg.cc/YCSwgSLb/depth.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/depth.png))
+![depth.png](image/depth.png)
 
 # Connect Camera
 
 First, select either single-camera mode or dual-camera mode based on the number of cameras you are using. The default mode is single-camera mode.
 
-![choose-single-camera.png](https://i.postimg.cc/Bb3rvZG5/choose-single-camera.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/choose%20single%20camera.png))
+![choose-single-camera.png](image/choose%20single%20camera.png)
 
 ## Single-camera
 
-![single-camera.png](https://i.postimg.cc/QCqRKLX2/single-camera.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/single%20camera.png))
+![single-camera.png](image/single%20camera.png)
 
 The camera comes with two types of cables: a power cable and a data cable. Please connect the USB end of the data cable to a USB 3.0 port on your computer.
 
@@ -68,7 +68,7 @@ After the camera status shows as "Connected," click the "Calibrate" button. A fi
 
 # Align Trackers
 
-![align-trackers.png](https://i.postimg.cc/BZcWVFxm/align-trackers.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/align%20trackers.png))
+![align-trackers.png](image/align%20trackers.png)
 
 Once the camera is successfully connected, the software will automatically navigate to the node alignment interface.
 
@@ -87,7 +87,7 @@ Look down to observe the skeletal position; if the skeletal position is correct,
 
 When the raise hand display window is closed in VR, you can reopen it using the software's button. If the toggle button is green, it indicates that it is open; if the toggle button is gray, it indicates that it is closed.
 
-![overlay.png](https://i.postimg.cc/7YHv8L9w/overlay.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/overlay.png))
+![overlay.png](image/overlay.png)
 
 # Motion Capture
 
@@ -96,7 +96,7 @@ When the raise hand display window is closed in VR, you can reopen it using the 
   - After clicking "Start Recording," the FBX model will begin to follow your movements. When you click "Stop Recording," the FBX model will stop following.
   - Click the "Export" button, choose the directory where you want to save the BVH file, and then save the file.
 
-![motion-capture.png](https://i.postimg.cc/8Pt21VXW/motion-capture.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/motion%20capture.png))
+![motion-capture.png](image/motion%20capture.png)
 
 - Open the imported BVH format video using Blender,File--Import--Motion Capture(.bvh).
 
@@ -106,11 +106,11 @@ When the raise hand display window is closed in VR, you can reopen it using the 
 - Motion Capture Pars: Displays parameters for motion preview, status, frame rate, and latency, among other details.
 - Click the "Motion Capture Setting" button to toggle the preview on or off.
 
-![action-demo.png](https://i.postimg.cc/MpHhHrgL/action-demo.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/action%20demo.png))
+![action-demo.png](image/action%20demo.png)
 
 # System Setting
 
-![system-settings.png](https://i.postimg.cc/0y4hw0sy/system-settings.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/system%20settings.png))
+![system-settings.png](image/system%20settings.png)
 
 1. **Select Language**:  You can choose between English and Simplified Chinese, with English being the default.
 
