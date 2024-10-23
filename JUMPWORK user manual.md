@@ -1,6 +1,6 @@
 # Login
 
-![image-20240814151003482](C:\Users\29131\AppData\Roaming\Typora\typora-user-images\image-20240814151003482.png)
+[![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png)](https://postimg.cc/0KQ3PNFp)
 
 Use Steam's one-click login; before logging in, you must check the box to agree to the Terms of Service and Privacy Policy
 
