@@ -110,7 +110,7 @@ When the raise hand display window is closed in VR, you can reopen it using the 
 
 # System Setting
 
-![system-settings.png]([https://i.postimg.cc/MpHhHrgL/action-demo.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/system%20settings.png)))
+![system-settings.png](https://i.postimg.cc/0y4hw0sy/system-settings.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/system%20settings.png))
 
 1. **Select Language**:  You can choose between English and Simplified Chinese, with English being the default.
 
