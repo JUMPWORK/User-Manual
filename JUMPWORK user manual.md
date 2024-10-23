@@ -10,7 +10,7 @@ If this is your first time using the device, please check whether the camera is 
 
 - First, unzip the software folder, then open OrbbecViewer.
 
-[![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png)](https://postimg.cc/0KQ3PNFp)
+[![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png](https://github.com/JUMPWORK/User-Manual/blob/main/image/Check%20Interface.png)).
 
 Check if the connection is via a USB 3.0 port or higher.
 
