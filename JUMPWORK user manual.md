@@ -1,7 +1,5 @@
 # Login
 
-[![open-Orbbec-Viewer.png](https://i.postimg.cc/C5HVCB46/open-Orbbec-Viewer.png)](https://postimg.cc/0KQ3PNFp)
-
 Use Steam's one-click login; before logging in, you must check the box to agree to the Terms of Service and Privacy Policy
 
 # Check the camera connection
@@ -24,7 +22,7 @@ Click on "Depth." If the depth map is displayed correctly, the camera is functio
 
 First, select either single-camera mode or dual-camera mode based on the number of cameras you are using. The default mode is single-camera mode.
 
-![choose-single-camera.png](image/choose%20single%20camera.png)
+![choose-1.jpg](image/choose1.jpg)
 
 ## Single-camera
 
@@ -34,14 +32,10 @@ The camera comes with two types of cables: a power cable and a data cable. Pleas
 
 There are two ways to connect the camera:
 
-- One option is automatic connection. You need to check "Auto-connect on startup." If the camera cables are connected before starting the software, it will automatically detect and connect the camera.
 - Manual connection: If the camera's cables were not connected before launching the software, you will need to manually click "Connect" after connecting the camera.
-
-After a few seconds, the camera's status will change from "Pending Connection" to "Connecting" and finally to "Connected."
-
-If the camera is accidentally disconnected during use, the software will automatically display a pop-up notification. In this case, you will need to exit the software and restart it to reconnect.
-
-![image-20240813141622835](C:\Users\29131\AppData\Roaming\Typora\typora-user-images\image-20240813141622835.png)
+![connect-1.jpg](image/connect1.jpg)
+- Automatic connection. You need to check "Auto-connect on startup." If the camera cables are connected before starting the software, it will automatically detect and connect the camera.
+![auto.jpg](image/auto.jpg)  
 
 ## Double-camera
 
@@ -49,39 +43,50 @@ If the camera is accidentally disconnected during use, the software will automat
 
 The camera comes with two types of cables: a power cable and a data cable. Please connect the USB end of the data cable to a USB 3.0 port on your computer.
 
-Place the two cameras along a diagonal line, with a minimum diagonal distance of 3 meters and a maximum of 9 meters.
+The cameras are suitable for a square room ranging from 2x2 meters to 8x8 meters, with corresponding diagonal distances of approximately 2.82 meters to 11.3 meters.
 
-The cameras can be positioned at half the height of a person, or they can be mounted on a wall with the angle tilted downward.
+If the room is smaller, the cameras can be placed at half the height of a person or mounted on the wall with a downward tilt.
+![20241114-231735.jpg](image/20241114-231735.jpg)
 
 ### Connect
 
+Before using dual cameras, you need to switch to Multiple-Camera mode.
+![single-camera.png](image/single%20camera.png)
+
+When using dual cameras for the first time, please perform the calibration process. Place the calibration sheet between the two cameras. Once the progress bar reaches 100%, the calibration is complete.
+
+**Note! When calibrating, please hold the blank area of the calibration sheet.**
+
+【The A4 calibration paper file can be found in the root directory of the installation path: ：\Printingthis\A4.PDF，Please use double-sided printing to ensure that the patterns on both sides are perfectly aligned after printing.】
+
+
+After the calibration is complete, the point cloud view of the cameras will be displayed. 
+![dianyun.jpg](image/dianyun.jpg)
+
+You can check for any calibration errors. If errors are found, you can recalibrate. If everything is correct, you can close the calibration.
+![pointcloud.png](image/pointcloud.png)
 There are two ways to connect the camera:
 
-- Automatic connection.：If the camera's cables are fully connected before launching the software, the software will automatically detect and connect to the camera.。
 - Manual connection: If the camera's cables were not connected before launching the software, you will need to manually click "Connect" after connecting the camera.
-
-After the camera status shows as "Connected," click the "Calibrate" button. A five-second countdown will begin. Before the countdown ends, immediately place the A4 calibration paper within the shared field of view of the two cameras.【The A4 calibration paper file can be found in the root directory of the installation path: ：\Printingthis\A4.PDF，Please use double-sided printing to ensure that the patterns on both sides are perfectly aligned after printing.】，Avoid blocking the patterns on the calibration paper. Wait for the calibration to complete. A voice prompt will confirm successful calibration, and the software will automatically proceed to the next page. If the calibration accuracy is insufficient, you will need to recalibrate.
-
-![image-20240814153936701](C:\Users\29131\AppData\Roaming\Typora\typora-user-images\image-20240814153936701.png)
-
-
+![connect.jpg](image/connect.jpg)
+- Automatic connection.：If the camera's cables are fully connected before launching the software, the software will automatically detect and connect to the camera.
+![auto.jpg](image/auto.jpg)  
 
 # Align Trackers
-
-![align-trackers.png](image/align%20trackers.png)
-
 Once the camera is successfully connected, the software will automatically navigate to the node alignment interface.
 
 There are two alignment methods:
 
 - Raise your left hand in VR and use the controller's ray to click the "Align" button on the raised-hand panel.
+![hud.jpg](image/hud.jpg)
+
 - Click the "Align" button in the software to perform the alignment.
+![align.jpg](image/align.jpg)
 
 After entering the alignment mode, immediately assume an A-Pose and hold the position, then pull the trigger on the controller.
 
-Alternatively, keep your arms naturally hanging down and pull the trigger on the controller.
-
 Look down to observe the skeletal position; if the skeletal position is correct, the alignment is successful.
+![tracker.jpg](image/tracker.jpg)
 
 ## HUD display
 
@@ -113,12 +118,17 @@ When the raise hand display window is closed in VR, you can reopen it using the 
 ![system-settings.png](image/system%20settings.png)
 
 1. **Select Language**:  You can choose between English and Simplified Chinese, with English being the default.
-
-2. **Software Update**: Displays the current version number of the software and whether a new version is available.
-
-3. **Tracking Mode Select **: You can choose between full-body tracking and half-body tracking.
-
+2. **OtherSetting**: Click **"Auto-connect camera on Startup"**, and the camera will automatically connect the next time you log in.
+3. **Tracking Mode Select**: You can choose between full-body tracking and half-body tracking.
+4. **Help**: For more information, you can visit the official JUMPWORK website；
+       If you have any questions about using the software, you can click on “**Help Website**”.
 4. **Help**: For more information, you can visit the official JUMPWORK website.
+
+# After-Sales Contact
+
+Our after-sales email is:  aftersales@jumpworker.com
+
+If you have any questions, feel free to contact us!
 
 
 
